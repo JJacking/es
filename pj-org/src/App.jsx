@@ -17,6 +17,7 @@ function App() {
       <Route path="/board" element={<BoardList/>}/>
       <Route path='/UserInfo' element={<UserInfo/>}/>
     </Routes>
+    <p>testd</p>
     </>
   )
 }
