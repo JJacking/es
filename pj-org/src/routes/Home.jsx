@@ -4,6 +4,7 @@ import BoardList from "./BoardList";
 import img1 from '../img/dog_1.jpg';
 
 
+
 const Home = () => {
   // 반복되는 항목을 배열로 관리
   const items = [
